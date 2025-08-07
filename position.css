@@ -1,0 +1,52 @@
+body{
+    background-color: navy;
+}
+.main{
+    margin: 10px;
+    color: black;
+    background-color: white;
+    width: 50vw;
+    height: 60vh;
+    margin: 0 auto;
+    align-items: center;
+    align-self: stretch;
+    margin-top: 150px;
+    border-radius: 15px;
+}
+.head{
+    color: white;
+    margin: 0 auto;
+    text-align: center;
+    background-color: rgba(3, 3, 136, 0.952);
+    padding: 5px;
+    font-size: 25px;
+    font-weight: bold;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+}
+.description{
+    text-align: center;
+    font-size: 17px;
+    font-weight: 500;
+}
+.box{
+    background-color: blue;
+    width: 25vw;
+    height: 25vh;
+    border-radius: 5px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto;
+}
+#box-item{
+    color: white;
+}
+.container{
+    text-align: center;
+    background-color: rgba(218, 216, 216, 0.897);
+    width: 40vw;
+    margin: 0 auto;
+    padding: 4px;
+    margin-top: 25px;
+}
